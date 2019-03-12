@@ -1,4 +1,4 @@
-package SwatBreach;
+package com.sinesection.swatBreach;
 
 import org.lwjgl.*;
 import org.lwjgl.glfw.*;
